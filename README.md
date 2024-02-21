@@ -11,6 +11,14 @@
 
 
 ## 프로젝트 사용 방법
-- 새환경(venv, conda)에서 requirements.txt 파일을 pip를 통해 설치부탁드립니다.
+- 해당 프로젝트를 본인계정에 포크하여 사용합니다.
+  
+
+- 새환경(venv, conda)에서 requirements.txt 파일을
+pip를 통해 설치부탁드립니다.
 
 	> pip install -r requirements.txt
+
+- 코드 추가시 본인을 식별할 수 있는 폴더를 생성 후  
+그 폴더 내부에 본인의 작업물을 업로드합니다.
+

@@ -10,5 +10,7 @@
 |타파하|`내용 추가`|
 
 
-## 설치과정
-새환경(venv, conda)에서 requirements.txt 파일을 pip를 통해 설치부탁드립니다.
+## 프로젝트 사용 방법
+- 새환경(venv, conda)에서 requirements.txt 파일을 pip를 통해 설치부탁드립니다.
+
+	> pip install -r requirements.txt

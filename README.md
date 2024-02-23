@@ -1,4 +1,4 @@
-![image](https://github.com/MokaSoda/KDT5_Numpy_Project/assets/28650637/201ef2e9-76e0-49a6-97bd-08d9e3aee016)# KDT5 Numpy Project
+# KDT5 Numpy Project
 
 해당 저장소는 KDT5에서 진행한 Numpy Project  진행 과정을 담은 저장소 입니다. 
 
